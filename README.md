@@ -17,4 +17,4 @@ To match keys in the json file of the theme, 2 tools were used:
 [Thanks for the wonderful mechanism by which I almost completely transferred the theme from vs code to zed](https://github.com/ypatel2022/vscode-theme-to-zed)  
 
 ---
-![one-monokai](./screenshots/one-dark-pro.png)
+![one-monokai](screenshot.png)
