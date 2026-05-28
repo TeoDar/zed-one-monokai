@@ -1,0 +1,7 @@
+id = "one-monokai"
+name = "One Monokai"
+version = "0.0.1"
+schema_version = 1
+authors = ["azemoh", "TeoDar"]
+description = "One Monokai theme ported from VS Code"
+repository = "https://github.com/TeoDar/zed-one-monokai"
